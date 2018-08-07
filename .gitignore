@@ -87,6 +87,9 @@ GTAGS
 *~
 \#*#
 
+# out directory
+out/
+
 #
 # Leavings from module signing
 #
